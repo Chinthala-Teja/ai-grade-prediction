@@ -1,0 +1,6 @@
+sex,Pstatus,Medu,Fedu,traveltime,studytime,romantic,famrel,freetime,goout,Dalc,Walc,health,absences,school_M,age_B,age_C,age_D,age_S,final_grade_U,address_LE3,famsize_yes,failures_yes
+18,3,2,1,2,0,4,3,4,2,5,6,10,10,True,False,False,False,True,True,False,True,True
+17,2,2,1,2,0,3,3,3,1,4,4,9,8,False,False,False,False,False,False,True,False,False
+18,3,3,1,1,0,5,4,5,3,4,3,8,7,True,True,False,False,False,True,False,True,True
+17,2,2,1,1,0,4,3,4,2,3,5,10,6,False,False,False,True,False,False,True,False,False
+18,4,3,1,2,0,5,4,5,4,5,6,7,5,True,False,True,False,False,True,False,True,True

@@ -1,0 +1,6 @@
+school,sex,age,address,famsize,Pstatus,Medu,Fedu,traveltime,studytime,failures,schoolsup,famsup,paid,activities,nursery,highschool,goout,Dalc,Walc,health,absences,final_grade
+GP,M,18,U,GT3,1,4,3,1,2,0,yes,yes,yes,no,yes,yes,4,1,1,3,6,A
+MS,F,17,R,LE3,1,3,3,1,2,0,yes,yes,yes,yes,yes,yes,3,2,1,3,10
+GP,M,18,U,GT3,1,4,3,1,2,0,no,yes,yes,yes,no,yes,3,1,1,2,11
+MS,F,17,R,LE3,1,2,3,2,2,1,yes,yes,yes,yes,yes,yes,4,1,1,3,7
+GP,M,18,U,GT3,1,4,3,1,1,0,yes,yes,yes,yes,no,yes,3,2,1,4,8
